@@ -1,6 +1,8 @@
-# Deep Learning using SVM
-
+# Deep Learning (Projects)
 This project focuses on Learnnin deep learning techniques, specifically Convolutional Neural Networks (CNNs), to classify images of cats and dogs. The project includes data augmentation to enhance the training dataset and improve model performance. Additionally, we employ Support Vector Machines (SVM) to further enhance the classification accuracy.
+
+# Sentiment Analysis
+sentiment analysis project leverages various data preprocessing techniques, text vectorization methods, and deep learning architectures to classify the sentiment of textual data into positive, negative, or neutral categories. It employs technologies like one-hot encoding, tokenization, LSTM, CNN, and more, to build and fine-tune sentiment classification models. The project's end-to-end pipeline encompasses data preparation, model training, evaluation, and the potential for deployment in applications like social media monitoring and customer feedback analysis, making it a valuable tool for understanding and interpreting textual sentiment in a wide range of contexts.
 
 ## Table of Contents
 
