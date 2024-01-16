@@ -4,6 +4,9 @@ This project focuses on Learnnin deep learning techniques, specifically Convolut
 # Sentiment Analysis
 sentiment analysis project leverages various data preprocessing techniques, text vectorization methods, and deep learning architectures to classify the sentiment of textual data into positive, negative, or neutral categories. It employs technologies like one-hot encoding, tokenization, LSTM, CNN, and more, to build and fine-tune sentiment classification models. The project's end-to-end pipeline encompasses data preparation, model training, evaluation, and the potential for deployment in applications like social media monitoring and customer feedback analysis, making it a valuable tool for understanding and interpreting textual sentiment in a wide range of contexts.
 
+# Pistol Detection
+The YOLOv8n Pistol Detection project is a computer vision initiative that employs the YOLOv8n model, trained to detect pistols in videos, with the aim of enhancing security and public safety. It involves data preparation, model training, and real-time inference on video streams. This project leverages state-of-the-art deep learning techniques to automate the detection of firearms, facilitating surveillance, law enforcement, and security efforts by identifying potential threats in real-time video footage.
+
 ## Table of Contents
 
 - [Deep Learning using SVM](#deep-learning-using-svm)
